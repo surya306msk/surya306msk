@@ -78,9 +78,9 @@ An AI-powered English pronunciation assessment platform that analyzes uploaded s
 `Redis`
 `REST API`
 
-🌐 **Live Demo:** http://speakspeech.vercel.app/
+🌐 Live Demo: http://speakspeech.vercel.app/
+🔗 Repository: https://github.com/surya306msk/speakspeech
 
-📂 **Repository:** https://github.com/surya306msk/speakspeech
 ---
 
 ## 🏢 ERP Integration Microservice
