@@ -55,12 +55,38 @@
 
 # 🚀 Featured Projects
 
-## 🏢 ERP Integration Microservice
+## 🎙️ SpeakHue – AI Pronunciation Scoring Platform ⭐
+An AI-powered English pronunciation assessment platform that analyzes uploaded speech, aligns spoken words with a target script, and provides per-word pronunciation scores, timestamps, and personalized coaching feedback.
 
+### ✨ Features
+- 🎤 Upload or record 30–45 second English speech
+- 🤖 AI-powered speech transcription using Whisper
+- 🎯 Per-word pronunciation scoring
+- 🎨 Color-coded pronunciation feedback
+- 🔊 Replay individual words using timestamps
+- 💡 Personalized pronunciation improvement tips
+- 🔒 Privacy-first design (audio processed in-memory)
+
+**Tech Stack**
+`Next.js 15`
+`React`
+`TypeScript`
+`Node.js`
+`Whisper AI`
+`Hugging Face`
+`Vercel`
+`Redis`
+`REST API`
+
+🌐 **Live Demo:** http://speakspeech.vercel.app/
+
+📂 **Repository:** https://github.com/surya306msk/speakspeech
+---
+
+## 🏢 ERP Integration Microservice
 Production-grade Spring Boot microservice integrating Tally ERP using XML APIs for automated inventory and accounting synchronization.
 
 **Tech Stack**
-
 `Spring Boot`
 `Java`
 `MongoDB`
@@ -74,11 +100,9 @@ Production-grade Spring Boot microservice integrating Tally ERP using XML APIs f
 ---
 
 ## 📄 OCR Document Ingestion Microservice
-
 OCR-powered ETL pipeline that processes PDF, Excel, CSV and TXT documents using PaddleOCR and OpenCV with automated validation and API integration.
 
 **Tech Stack**
-
 `Python`
 `FastAPI`
 `OpenCV`
@@ -93,11 +117,9 @@ OCR-powered ETL pipeline that processes PDF, Excel, CSV and TXT documents using 
 ---
 
 ## 🌊 Autonomous Water Surface Cleaning Robot
-
 Solar-powered autonomous robot using CNN-based computer vision, sensor navigation and machine learning for floating waste collection.
 
 **Tech Stack**
-
 `Python`
 `CNN`
 `Computer Vision`
@@ -107,11 +129,9 @@ Solar-powered autonomous robot using CNN-based computer vision, sensor navigatio
 ---
 
 ## 🌧 ML Based Flood Prediction System
-
 Random Forest based flood prediction system providing real-time alerts and automated flood management.
 
 **Tech Stack**
-
 `Python`
 `Machine Learning`
 `Random Forest`
@@ -120,11 +140,9 @@ Random Forest based flood prediction system providing real-time alerts and autom
 ---
 
 ## 🏡 Real Estate Price Prediction
-
 Machine Learning model built using Ensemble Regression techniques and deployed on AWS EC2.
 
 **Tech Stack**
-
 `Python`
 `Scikit-Learn`
 `AWS`
