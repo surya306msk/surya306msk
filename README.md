@@ -216,12 +216,14 @@ Machine Learning model built using Ensemble Regression techniques and deployed o
 
 # 📚 Publications & Patent
 
-📄 Enhanced Flood Prediction and Management for Urban Underpasses using ML
+📄 **Enhanced Flood Prediction and Management for Urban Underpasses using ML**
 
-📄 Automated Water Surface Cleaning Robot: A Machine Learning Approach
+📄 **Automated Water Surface Cleaning Robot: A Machine Learning Approach**
 
-🏆 AI Enabled Toll for Flood Management in Roadways
+🏆 **AI Enabled Toll for Flood Management in Roadways**  
 **Design Patent No: 447696-001**
+
+📂 **[View Publications & Patent Documents](https://drive.google.com/drive/folders/1qeW9O-fX17VfRxVr9jGrMl_JkoK5Uxrc?usp=drive_link)**
 
 ---
 
