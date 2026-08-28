@@ -55,6 +55,43 @@
 
 # 🚀 Featured Projects
 
+## 🩺 MedIntel AI – Multi-Agent Medical Report Intelligence Platform ⭐
+
+An AI-powered **multi-agent medical report intelligence platform** that extracts information from medical reports, compares historical records, tracks lab trends, flags abnormal markers, answers patient questions using Hybrid RAG, and generates doctor-ready summaries.
+
+### ✨ Features
+
+- 📄 Upload medical reports (PDF, Image, or Text)
+- 🔍 AI-powered OCR extraction using PaddleOCR & PyMuPDF
+- 🤖 Structured medical data extraction using LLM-based JSON parsing
+- 📊 Longitudinal history comparison & lab trend tracking
+- 🚨 Automated risk analysis & critical marker flagging
+- 💬 Patient Q&A assistant powered by Hybrid RAG (Reports + Medical Guidelines)
+- 📋 Autonomously generated doctor-ready summaries
+- 🔔 Smart retest suggestions & automated reminders
+- 🔒 Privacy-first design with local heuristic extraction fallback
+
+**Tech Stack**  
+`Next.js 15`
+`React`
+`TypeScript`
+`Tailwind CSS`
+`FastAPI`
+`Python`
+`LangGraph`
+`PostgreSQL`
+`Qdrant`
+`Vector DB`
+`OpenAI API`
+`Render,Vercel`
+`Docker`
+`Kubernetes`
+
+🌐 Live Demo: https://health-assistant-medintel-ai.vercel.app/
+🔗 Repository: https://github.com/surya306msk/Health-Assistant-MEDINTEL-AI-
+
+---
+
 ## 🎙️ SpeakHue – AI Pronunciation Scoring Platform ⭐
 An AI-powered English pronunciation assessment platform that analyzes uploaded speech, aligns spoken words with a target script, and provides per-word pronunciation scores, timestamps, and personalized coaching feedback.
 
